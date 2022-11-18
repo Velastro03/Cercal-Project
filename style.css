@@ -1,0 +1,73 @@
+body{
+    background-color: white;
+}
+
+
+h1{
+    height: 500px;
+    width: 100px;
+    font-size: 150px;
+    text-align: left;
+    font-family: Alkalami;
+    position: relative;
+    left: 50px;
+    top: 300px;
+}
+
+h3{
+    height: 410px;
+    width: 872px;
+    font-size: 35px;
+    text-align: left;
+    font-family: Inter;
+    position: relative;
+    top: 10px;
+}
+
+h5{
+    height:43px;
+    width: 260px;
+    font-family: Inter;
+    font-size: 17px;
+    position: relative;   
+}
+
+h6{
+    height:43px;
+    width: 260px;
+    font-family: Inter;
+    font-size: 17px;
+    position: relative;
+    left: 500px; 
+    bottom:160px ;
+}
+
+
+.square {
+    height: 3px;
+    width: 570px;
+    background-color: #555;
+    position: relative;
+    bottom: 270px;
+  }
+
+img{
+    position: relative;
+    left: 1200px;
+    bottom: 600px;
+    height: 511px;
+    width: 342px;
+    right: 25px; 
+}
+
+
+h2{
+    color: black;
+    font-family: Inter;
+    font-size: 10px;
+    width: 301px;
+    height: 55px;
+    position: relative;
+    left: 1459px;
+    bottom: 1150px;
+}
